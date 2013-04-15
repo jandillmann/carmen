@@ -423,14 +423,14 @@
   alpha_3_code: IOT
   numeric_code: '086'
   type: country
-- alpha_2_code: IQ
-  alpha_3_code: IRQ
-  numeric_code: '368'
-  type: country
-- alpha_2_code: IR
-  alpha_3_code: IRN
-  numeric_code: '364'
-  type: country
+# - alpha_2_code: IQ
+#   alpha_3_code: IRQ
+#   numeric_code: '368'
+#   type: country
+# - alpha_2_code: IR
+#   alpha_3_code: IRN
+#   numeric_code: '364'
+#   type: country
 - alpha_2_code: IS
   alpha_3_code: ISL
   numeric_code: '352'
